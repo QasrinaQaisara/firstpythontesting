@@ -4,3 +4,5 @@ def hello():
 hello()
 
 print("This is a test project.")
+
+print("hai")
